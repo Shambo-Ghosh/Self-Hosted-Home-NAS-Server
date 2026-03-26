@@ -80,7 +80,7 @@ The system follows a layered design:
 
 ## Setup Phases (Summary)
 
-The full setup is documented in [`NAS_Project_Documentation_Algorithm_v1_2.docx`](./NAS_Project_Documentation_Algorithm_v1_2.docx), but here's the high-level order:
+The full setup is documented in [`NAS_Project_Documentation_Algorithm_v1_2.pdf`](./NAS_Project_Documentation_Algorithm_v1_2.pdf), but here's the high-level order:
 
 1. **OS Installation** — Ubuntu Server 22.04 LTS via Rufus bootable USB
 2. **Static IP Configuration** — Netplan config to prevent DHCP address changes
@@ -159,7 +159,7 @@ Real issues hit during the build — documented for anyone following a similar p
 
 The complete technical documentation — including all setup algorithms, detailed configurations, user/privacy model, and operational procedures — is in:
 
-📄 [`NAS_Project_Documentation_Algorithm_v1_2.docx`](./NAS_Project_Documentation_Algorithm_v1_2.docx)
+📄 [`NAS_Project_Documentation_Algorithm_v1_2.pdf`](./NAS_Project_Documentation_Algorithm_v1_2.pdf)
 
 ---
 
